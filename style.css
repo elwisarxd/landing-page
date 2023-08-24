@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+ul {
+    list-style-type: none;
+    color: #e5e7eb;
+    display: flex;
+    font-size: 30px;
+    margin-left: auto;
+    gap: 15px;
+margin-right: 20px;
+padding: 0px;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;   
+}
+
+
+#logo {
+
+    height: 150px;
+    margin-left: 20px;
+}
+
+#logo2 {
+height: 100px;
+width: 600px;
+}
